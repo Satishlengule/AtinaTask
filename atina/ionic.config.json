@@ -1,0 +1,7 @@
+{
+  "name": "atina",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
